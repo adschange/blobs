@@ -368,7 +368,7 @@ var jwDefaults = {
   "displaytitle": false,
   "flashplayer": "//ssl.p.jwpcdn.com/player/v/8.0.11/jwplayer.flash.swf",
   "height": 360,
-  "key": "9Jxhhysv/OHt3oD6KWSob0uIr3rDhPHBwVC5daxa2GrgFXYCm8Zifag05CM=",
+   "key": "knvwX1Uz0uh8gXeuXzMIOTMW2a9M/BKlzr/VLlE3EH2lCZb26zl7e9U0HmU=",
   "logo": {
     "file": "https://1.bp.blogspot.com/-kt369FRzCgc/WkTeaT8p2ZI/AAAAAAAAAEo/3lzcoZqZUCIlfDEYfL3-4ZrYqtyIjaTOgCLcBGAs/s1600/WATER.png",
     "hide": false,

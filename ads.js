@@ -368,7 +368,7 @@ var jwDefaults = {
   "displaytitle": false,
   "flashplayer": "//ssl.p.jwpcdn.com/player/v/8.0.11/jwplayer.flash.swf",
   "height": 360,
-  "key": "",
+  "key": "vaAOL6pzJuxN2FSYk2UHlHem+uwSM4tjeSwzvI3/oI77GpTMLrI30Qmns8M=",
   "logo": {
   "file": "https://1.bp.blogspot.com/-kt369FRzCgc/WkTeaT8p2ZI/AAAAAAAAAEo/3lzcoZqZUCIlfDEYfL3-4ZrYqtyIjaTOgCLcBGAs/s1600/WATER.png",
   "hide": false,

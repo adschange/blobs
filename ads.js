@@ -373,9 +373,8 @@ var jwDefaults = {
   "file": "https://1.bp.blogspot.com/-F0PIsr7XA_8/WkpN5mpqgCI/AAAAAAAAAFg/RTqnu7_JJukxdkKUPLsUV-pSlEMgEjceQCLcBGAs/s1600/waters.png",
   "hide": false,
   "link": "",
-  "margin-top": "200",
-  "margin-right": "100",   
-  "position": "top-right"
+  "margin": "100", 
+  "position": "top-left"
   },
   "mute": false,
   "ph": 1,

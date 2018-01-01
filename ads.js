@@ -373,7 +373,7 @@ var jwDefaults = {
   "file": "https://2.bp.blogspot.com/-0FeIFiXRn2U/Wko5bT2kkVI/AAAAAAAAAFA/1m5Rvzd2DaUwPgU5sZ97xTNLRhGpxT5FQCLcBGAs/s1600/wm.png",
   "hide": false,
   "link": "",
-  "margin": "20",
+  "margin": "60",
   "position": "top-right"
   },
   "mute": false,

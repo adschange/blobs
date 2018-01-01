@@ -374,7 +374,7 @@ var jwDefaults = {
   "hide": false,
   "link": "",
   "margin": "60", 
-  "position": "top-right"
+  "position": "top-left"
   },
   "mute": false,
   "ph": 1,

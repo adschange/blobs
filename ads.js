@@ -370,10 +370,11 @@ var jwDefaults = {
   "height": 360,
   "key": "vaAOL6pzJuxN2FSYk2UHlHem+uwSM4tjeSwzvI3/oI77GpTMLrI30Qmns8M=",
   "logo": {
-  "file": "https://2.bp.blogspot.com/-0FeIFiXRn2U/Wko5bT2kkVI/AAAAAAAAAFA/1m5Rvzd2DaUwPgU5sZ97xTNLRhGpxT5FQCLcBGAs/s1600/wm.png",
+  "file": "https://1.bp.blogspot.com/-8kZF69IF8mg/WkpMmlXd5JI/AAAAAAAAAFU/zvmlhGaqBGw_wa5pEOKpRxNtpnTJfQVRACLcBGAs/s1600/water.png",
   "hide": false,
   "link": "",
-  "margin": "60",
+  "margin-top": "120",
+  "margin-right": "60",   
   "position": "top-right"
   },
   "mute": false,

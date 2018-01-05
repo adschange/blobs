@@ -371,7 +371,7 @@ var jwDefaults = {
   "key": "VSqIBsR9mmmGN38dA6Xj5mZEZlfxjqhD/HQf7jFLUOmYf8BzwOcYm+GApQ8=",
   "logo": {
   "file": "https://4.bp.blogspot.com/-ibpTCtM2-hw/Wk_X-Z3x8lI/AAAAAAAAAGY/DMnx92WMXbMu8wJS8QsrX6KPBUQH9d6PACLcBGAs/s1600/Stream%2BTos.png",
-  "hide": false,
+  "hide": true,
   "link": "",
   "margin": "60", 
   "position": "top-right"
